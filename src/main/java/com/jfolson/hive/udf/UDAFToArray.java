@@ -1,4 +1,4 @@
-package com.sonamine.hive.udf;
+package com.jfolson.hive.udf;
 
 import java.util.ArrayList;
 import java.util.HashMap;

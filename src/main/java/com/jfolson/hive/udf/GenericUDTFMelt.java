@@ -16,7 +16,7 @@
  * limitations under the License.
  */
 
-package com.sonamine.hive.udf;
+package com.jfolson.hive.udf;
 
 import java.util.ArrayList;
 
